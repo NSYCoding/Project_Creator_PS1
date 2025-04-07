@@ -11,4 +11,4 @@ An installation script that installs certain libraries and goes into the chosen 
     - [ ]  Edit the README.md to show how to configure enviroment variables
 
 Here is what I have learned from this project:
-[Learned](https://github.com/NSYCoding/Project_Creator_PS1)
+[Learned](learned.md)
