@@ -9,3 +9,6 @@ An installation script that installs certain libraries and goes into the chosen 
     - [x]  Navigate to the Github_Projects
     - [x]  If NodeJS chosen express and sqlite will be installed by choice.
     - [ ]  Edit the README.md to show how to configure enviroment variables
+
+Here is what I have learned from this project:
+[Learned](https://github.com/NSYCoding/Project_Creator_PS1)

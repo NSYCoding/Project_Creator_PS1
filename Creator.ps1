@@ -52,7 +52,7 @@ function Set-BootstrapOrTailwindCSS {
         npm install tailwindcss @tailwindcss/cli --save-dev;
         New-Item -ItemType Directory -Path "src" -Force | Out-Null;
         New-Item -ItemType File -Path "src/input.css" -Force | Out-Null;
-        Add-Content -Path "src/input.css" -Value "@'tailwindcss';";
+        Add-Content -Path "src/input.css" -Value "@import 'tailwindcss';";
         Write-Host "Tailwind CSS installed successfully!";
     }
     elseif ($inputCSSChoice -eq "n") {
